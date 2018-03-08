@@ -1,1 +1,36 @@
 
+Aktives Zuhören
+An Schwächen arbeiten
+Analytische Kompetenz
+Bloggen
+Durchsetzungsvermögen
+Empathie / Einfühlungsvermögen
+Entschlossenheit
+Flexibilität
+Fragetechniken
+Führungsqualität
+Kommunikation
+Kommunikationstypen
+Konfliktmanagement
+Kreativität
+Kritikfähig
+Lernbereit
+Lerntechniken/-methoden
+Meetup organisieren
+Mentoring
+Moderieren
+Nein sagen
+Neugierde
+Netzwerken
+Reviews
+Selbstdisziplin
+Selbstfürsorge
+Selbstreflexion
+Teamarbeit / Teamfähig
+Verhandlungstechniken
+Vertrauenswürdig
+Visualisierung
+Vorstellungsgespräche
+Vorträge halten
+Workshops halten
+Workshops organisieren
