@@ -1,4 +1,5 @@
 Session auf dem Developer Camp am 9.3.2018
+------------------------------------------
 
 # Eine Sammlung ergab folgende Vorschläge:
 
@@ -66,3 +67,8 @@ Session auf dem Developer Camp am 9.3.2018
 * John Stepper - Working out loud-Guides
 
 
+# Dankeschön
+
+Ein dickes Dankeschön an alle Beteiligten für die vielen Punkte und die spannende Diskussion!
+Gruss
+Latti
