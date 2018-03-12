@@ -1,7 +1,7 @@
 Session auf dem Developer Camp am 9.3.2018
 ------------------------------------------
 
-# Eine Sammlung ergab folgende Vorschläge:
+# Eine Sammlung ergab folgende Skills:
 
 * Achtsamkeit
 * Aktives Zuhören
