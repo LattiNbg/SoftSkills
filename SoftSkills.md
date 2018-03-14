@@ -21,6 +21,7 @@
 * Meetup organisieren
 * Mentoring
 * Moderieren
+* Mut zu scheitern
 * Nein sagen
 * Neugierde
 * Netzwerken
